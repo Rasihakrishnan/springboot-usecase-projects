@@ -10,3 +10,14 @@ A REST API to manage car parking records using CRUD operations.
 - MySQL
 - Maven
 - REST APIs
+
+- ## 1.HotelRoomBookingSystem
+A REST API to manage room booking records using CRUD operations.
+
+## Technologies Used
+- Java
+- Spring Boot
+- Spring Data JPA
+- MySQL
+- Maven
+- REST APIs
