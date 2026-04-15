@@ -11,7 +11,7 @@ A REST API to manage car parking records using CRUD operations.
 - Maven
 - REST APIs
 
-- ## 1.HotelRoomBookingSystem
+ ## 2.HotelRoomBookingSystem
 A REST API to manage room booking records using CRUD operations.
 
 ## Technologies Used
